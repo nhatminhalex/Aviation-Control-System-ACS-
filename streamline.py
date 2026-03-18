@@ -8,4 +8,4 @@ class Calculations:
         return altitude
     def acceleration(velocityatt1,velocityatt2,):
         """All in meters/second. Interval is 1 second"""
-        return (velocityatt1-velocityatt2)
+        return velocityatt1-velocityatt2
